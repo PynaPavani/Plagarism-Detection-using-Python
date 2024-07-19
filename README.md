@@ -20,12 +20,8 @@ This repository contains a Python implementation of a plagiarism detection syste
 
 2. **Install the required dependencies:**
 
-    It's recommended to use a virtual environment. You can install the necessary packages using pip:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    It's recommended to use a virtual environment. You can install the necessary packages using pip: install all the required libraries present in the code file.
+   
 ## Usage
 
 1. **Prepare your text documents:**
